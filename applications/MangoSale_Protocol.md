@@ -128,31 +128,24 @@ We hope to develop a permissionless project launch and fundraising platform for 
 
 
 
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/mangosale-creattoken.png)
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/1-creattoken.png)
 
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/1-1-tokenlist.png)
 
-
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/creattoken-admin.png)
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/1-2-token-admin.png)
 
 
 
 2.**MangoLock: **
 
 
-
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/mangosale-createlock.png)
-
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/2-createlock.png)
 
 
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/locklist-viewlptoken.png)
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/2-1-locklist.png)
 
 
-
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/locklist-viewtoken.png)
-
-
-
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/mangosale-locklist.png)
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/2-2-locklist-view.png)
 
 
 
@@ -160,11 +153,16 @@ We hope to develop a permissionless project launch and fundraising platform for 
 
 
 
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/mangosale-airdrop.png)
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/3-airdrop.png)
 
 
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/3-1-airdroplist.png)
 
-![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/mangosale-airdroplist.png)
+
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/3-2-viewairdrop-user.png)
+
+
+![](https://raw.githubusercontent.com/Mangoboxlabs/MangoSale/main/pic/3-3-viewairdrop-admin.png)
 
 
 
